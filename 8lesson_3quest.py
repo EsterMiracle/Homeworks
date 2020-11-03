@@ -11,6 +11,7 @@
 ри этом работа скрипта не должна завершаться.'''
 
 
+
 class Error:
     def __init__(self, *args):
         self.my_list = []

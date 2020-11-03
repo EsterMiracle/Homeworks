@@ -4,6 +4,7 @@
 Проверьте корректность полученного результата.'''
 
 
+
 class ComplexNumber:
     def __init__(self, numb_1, numb_2, *args):
         self.numb_1 = numb_1
