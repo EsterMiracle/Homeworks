@@ -4,6 +4,7 @@
 корректно обработать эту ситуацию и не завершиться с ошибкой.'''
 
 
+
 class DivisionByZero:
     def __init__(self, divider, denominator):
         self.divider = divider

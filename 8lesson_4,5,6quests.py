@@ -17,6 +17,7 @@
 изученных на уроках по ООП.'''
 
 
+
 class My_Store:
 
     def __init__(self, name, price, quantity, number_of_lists, *args):
